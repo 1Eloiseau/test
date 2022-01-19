@@ -1,6 +1,7 @@
-1
+§
 Je suis ajout après 1
 je ne suis pas un conflict
 ajout après conflict (après ancienne ligne 2)
 ajout ligne après 2
 brancheje suis un méchant pas gentil de branche 105
+§
