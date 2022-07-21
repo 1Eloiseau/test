@@ -1,4 +1,5 @@
 !
+un ajout ? ez
 je ne suis pas un conflict
 ajout après conflict (après ancienne ligne 2)
 ajout ligne après 2
